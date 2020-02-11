@@ -1,4 +1,4 @@
-# green softwre [![green](https://furtive-hope.surge.sh/badge.svg)](https://github.com/creimers/green)
+# green software [![green](https://furtive-hope.surge.sh/badge.svg)](https://github.com/creimers/green)
 
 A currated list of green software resources.
 
